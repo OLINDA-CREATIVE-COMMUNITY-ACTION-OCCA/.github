@@ -60,7 +60,7 @@ OCCA teve início em 2020, a partir de uma conversa entre 10 amigos na casa que 
     </td>
     <td align="center" width="96">
         <img src="assets/img/network.jpg" alt="icon" width="65" height="65" />
-      <br><br>Network
+      <br><br>Networking
     <td align="center" width="96">
         <img src="assets/img/softSkills.png" alt="icon" width="65" height="65" />
       <br><br>SoftSkills
