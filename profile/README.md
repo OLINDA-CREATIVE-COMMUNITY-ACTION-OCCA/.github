@@ -21,6 +21,7 @@ OCCA teve início em 2020, a partir de uma conversa entre 10 amigos na casa que 
 <p>
   • Visite o site e confira informações sobre a nossa equipe e projetos!
   <br>
+  <br>
   <a href="https://occa.space/">
     <img src="https://img.shields.io/badge/site-%230077B5.svg?style=for-the-badge&logo=site&logoColor=white"> 
   </a>
@@ -28,6 +29,7 @@ OCCA teve início em 2020, a partir de uma conversa entre 10 amigos na casa que 
 
 <p>
   • Inscreva-se no YouTube para conferir nossos conteúdos!
+  <br>
   <br>
   <a href="https://www.youtube.com/@occaspace/videos">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> 
@@ -37,6 +39,7 @@ OCCA teve início em 2020, a partir de uma conversa entre 10 amigos na casa que 
 <p>
   • Siga-nos no LinkedIn e acompanhe conteúdo sobre os nossos projetos e carreira!
   <br>
+  <br>
   <a href="https://www.linkedin.com/company/occa-space/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
@@ -44,6 +47,7 @@ OCCA teve início em 2020, a partir de uma conversa entre 10 amigos na casa que 
 
 <p>
   • Siga-nos no Instagram para acompanhar conteúdos educacionais, divertidos e vagas!
+  <br>
   <br>
    <a href="https://www.instagram.com/occa.space">
     <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
@@ -72,4 +76,7 @@ OCCA teve início em 2020, a partir de uma conversa entre 10 amigos na casa que 
 ## 🤔 Como fazer parte do OCCA Social Club?
 - Confira os requisitos:
     > OCCA Social Club é um programa com periodo minimo de 3 meses. O limite atual de membros envolvidos enquanto membro do OCCA Social Club é de 20 pessoas. Sendo assim, quando se encerra o ciclo de 3 meses é aberto mais algumas vagas para começar novamente. 
-- Deu match? Faça a sua inscrição <a href="https://linktr.ee/occa.space">aqui</a>!
+- Deu match? Faça a sua inscrição [aqui](https://linktr.ee/occa.space)!
+
+## 📍 Onde estamos?
+[R. Treze de Maio, 229, Carmo, Olinda – PE](https://maps.app.goo.gl/8rrAWPjA5D1zxHtu9)
