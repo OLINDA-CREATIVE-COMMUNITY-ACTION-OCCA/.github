@@ -3,6 +3,7 @@
 <p align="center">
   <img  src="assets/img/occa_banner.jpeg">
 </p>
+<meta name="google-site-verification" content="MPMzxU4Nyk6VDAiXFpa8J6i8MiZgj_mXiGaF-vnujXE" />
 
 ## 👉 O que é OCCA?
 
